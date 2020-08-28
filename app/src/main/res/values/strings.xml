@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SFireW Beta</string>
+    <string name="navigation_drawer_open">開啟導航抽屜</string>
+    <string name="navigation_drawer_close">關閉導航抽屜</string>
+    <string name="nav_header_title">SFireW</string>
+    <string name="nav_header_subtitle">server list for you</string>
+    <string name="nav_header_desc">導航頭部</string>
+    <string name="action_settings">設定</string>
+
+    <string name="menu_home">首頁</string>
+    <string name="menu_server">伺服器</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="button">我是按鈕</string>
+    <string name="label">我是標籤</string>
+
+
+    <string name="main_card_title">標題請放這裡</string>
+    <string name="main_card_with_stroke_title">Card with stroke</string>
+    <string name="main_card_title_short">標題</string>
+    <string name="main_card_subtitle">副標題</string>
+    <string name="main_card_details">Details here</string>
+    <string name="main_card_button_1">動作 1</string>
+    <string name="main_card_button_2">動作 2</string>
+    <string name="main_flat_button_1_clicked">動作 1</string>
+    <string name="main_flat_button_2_clicked">動作 2</string>
+
+    <string name="pleaseInputServer">伺服器位址
+        例如：hypixel.net</string>
+    <string name="search">搜尋</string>
+</resources>
